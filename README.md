@@ -1,4 +1,9 @@
 # sample_project1
 
+   
+Hello! This is my sample project
 
-Hello world! This is a my sample project
+This is just for check up
+
+
+updated
